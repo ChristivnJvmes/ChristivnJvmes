@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Christian Wilson and I am a learning developer.
+My name's Christian Wilson and I am a learning developer
 
 I am currently finishing college and working as a Sr. Technician at Core Logic | a la mode
 
