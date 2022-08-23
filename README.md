@@ -7,6 +7,6 @@ I am currently finishing college and working as a Sr. Technician at Core Logic |
 Alongside work and school I am completing a full-stack engineer course through Code Academy
 in hopes of landing my first developer job very soon!
 
-Right now I am learning HTML, CSS, Javascript, React, and other full-stack/web development skills 
+Right now I am learning Swift(iOS App Development), HTML, CSS, Javascript, React, and other full-stack/web development skills 
 
 
